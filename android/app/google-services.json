@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1086949068754",
+    "firebase_url": "https://flutterfcm-f530e.firebaseio.com",
+    "project_id": "flutterfcm-f530e",
+    "storage_bucket": "flutterfcm-f530e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1086949068754:android:c9c145a802d977caae820b",
+        "android_client_info": {
+          "package_name": "com.test.flutterfcm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1086949068754-csk6e159n8naomjqh2frea3t9ikgc2kk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.test.flutterfcm",
+            "certificate_hash": "a76ced8d65270bcbb362c7c2c65ffe9b995cf0ef"
+          }
+        },
+        {
+          "client_id": "1086949068754-kd0bsqk8vj8uv5dur9ia8qkk2ejlo4mm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-REi7L91ITnHU8ueVnpBWEcSBPWIr2kg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1086949068754-kd0bsqk8vj8uv5dur9ia8qkk2ejlo4mm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
